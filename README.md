@@ -18,7 +18,7 @@ A short introductory course I conducted for people new to Raspberry Pis and Linu
 
 #Software required:
 
-SSH client on computer connected to same subnet as Raspberry Pi. Mac/Linux normally comes with an SSH client by default. Windows users can dowload the [Putty installer](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).
+SSH client on computer connected to same subnet as Raspberry Pi. Mac/Linux normally comes with an SSH client by default. Windows users can download the [Putty installer](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html).
 
 
 
